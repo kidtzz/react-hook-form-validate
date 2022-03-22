@@ -12,7 +12,7 @@ function Form() {
                 <label> Email *</label>
                 <input type="email" name="email" />
 
-                <label htmlFor=""> Passwoord * </label>
+                <label htmlFor=""> Password * </label>
                 <input
                     name="password"
                     type="password"
