@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { useForm } from "react-hook-form";
+import useForm from "react-hook-form";
 import PasswordPopover from "./PasswordPopover";
 
 function later(delay: number) {
